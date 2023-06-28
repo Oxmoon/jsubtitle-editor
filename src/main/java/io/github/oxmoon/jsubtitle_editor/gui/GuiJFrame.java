@@ -147,6 +147,8 @@ public class GuiJFrame extends JFrame implements ActionListener {
         backward.addActionListener(this);
         cleanup.addActionListener(this);
 
+        ImageIcon image = new ImageIcon("src/main/resources/logo.png");
+        this.setIconImage(image.getImage());
         this.getContentPane().setBackground(Color.DARK_GRAY);
         this.setResizable(false);
         this.setVisible(true);

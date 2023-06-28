@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56ccf27-081b-49ae-8557-ac3095cc28bb" name="Changes" comment="logo" />
+    <list default="true" id="e56ccf27-081b-49ae-8557-ac3095cc28bb" name="Changes" comment="removed image" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +161,7 @@
       <updated>1687415921187</updated>
       <workItem from="1687415923638" duration="6745000" />
       <workItem from="1687422823179" duration="77268000" />
-      <workItem from="1687924501570" duration="2686000" />
+      <workItem from="1687924501570" duration="2997000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1687928070399</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687929480582</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="removed image">
+      <created>1687929756538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687929756538</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +244,8 @@
     <MESSAGE value="test subs" />
     <MESSAGE value="idea" />
     <MESSAGE value="logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo" />
+    <MESSAGE value="removed image" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
