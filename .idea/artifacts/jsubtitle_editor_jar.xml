@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="JSubtitle-Editor:jar">
-    <output-path>$PROJECT_DIR$/../Desktop</output-path>
+  <artifact type="jar" name="jsubtitle-editor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsubtitle_editor_jar</output-path>
     <root id="archive" name="jsubtitle-editor.jar">
       <element id="module-output" name="jsubtitle-editor" />
     </root>
